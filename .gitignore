@@ -1,0 +1,4 @@
+node_modules
+*.log
+backend/generated/
+frontend/.next/
