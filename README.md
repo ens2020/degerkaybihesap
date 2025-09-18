@@ -1,0 +1,1 @@
+# degerkaybihesap
